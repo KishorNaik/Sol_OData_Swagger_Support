@@ -7,7 +7,7 @@
 		<RepositoryUrl>https://github.com/KishorNaik/Sol_OData_Swagger_Support</RepositoryUrl>
 		<RepositoryType></RepositoryType>
 		<PackageTags>OData,Swagger,OData-Swagger</PackageTags>
-		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 		<Authors>Kishor Naik</Authors>
 		<Company>Kishor Naik</Company>
 	</PropertyGroup>
