@@ -137,9 +137,12 @@ Run your Web api and call swagger ui page.
 
 [![Swagger Ui OData Solved](https://i.postimg.cc/PJjktPN4/2.png)](https://postimg.cc/wy0r2xXy)
 
-Example of OData in Asp.net core 3.1:
+You can run sample example from the following link.<space><space>
+https://github.com/KishorNaik/Sol_OData_Swagger_Support/tree/master/Sol_Demo/Api
+
+Example of OData in Asp.net core 3.1: <space><space>
 https://github.com/KishorNaik/Sol_OData_WebApi
 
-Example of Swagger in Asp.net core 3.1
+Example of Swagger in Asp.net core 3.1: <space><space>
 https://github.com/KishorNaik/Sol_Swagger_WebApi
 
