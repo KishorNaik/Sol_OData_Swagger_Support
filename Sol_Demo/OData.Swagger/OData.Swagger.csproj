@@ -3,6 +3,13 @@
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<Description>Configure OData with Swagger.</Description>
+		<PackageProjectUrl>https://github.com/KishorNaik/Sol_OData_Swagger_Support</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/KishorNaik/Sol_OData_Swagger_Support</RepositoryUrl>
+		<RepositoryType></RepositoryType>
+		<PackageTags>OData,Swagger,OData-Swagger</PackageTags>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Authors>Kishor Naik</Authors>
+		<Company>Kishor Naik</Company>
 	</PropertyGroup>
 
 	<ItemGroup>
