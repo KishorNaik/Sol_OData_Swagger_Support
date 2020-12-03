@@ -1,5 +1,5 @@
 # Configure OData with Swagger.
-If you would like to configure OData with Swagger in Asp.net Core 3.1 then you are in the right place.
+If you would like to configure OData with Swagger in Asp.net Core 3.1 & 5.0 then you are in the right place.
 
 When you configure OData with Swagger then you would expect the following error message on Swagger Ui Page.
 
@@ -8,8 +8,10 @@ When you configure OData with Swagger then you would expect the following error
 So How can we solve this problem? Here is the solution.
 
 **Note:**
-I hope that you have already downloaded the following swagger nuget package on your existing OData api solution.
+I hope that you have already downloaded the following swagger & Odata nuget package on your existing OData api solution.
 ```
+Microsoft.AspNetCore.OData
+Microsoft.AspNetCore.Mvc.NewtonsoftJson
 Swashbuckle.AspNetCore
 ```
 
@@ -138,7 +140,8 @@ Run your Web api and call swagger ui page.
 [![Swagger Ui OData Solved](https://i.postimg.cc/PJjktPN4/2.png)](https://postimg.cc/wy0r2xXy)
 
 You can run sample example from the following link.<space><space>
-https://github.com/KishorNaik/Sol_OData_Swagger_Support/tree/master/Sol_Demo/Api
+https://github.com/KishorNaik/Sol_OData_Swagger_Support/tree/master/V3.1/Sol_Demo/Api
+https://github.com/KishorNaik/Sol_OData_Swagger_Support/tree/master/V5.0/Sol_Demo/Api 
 
 Example of OData in Asp.net core 3.1: <space><space>
 https://github.com/KishorNaik/Sol_OData_WebApi
