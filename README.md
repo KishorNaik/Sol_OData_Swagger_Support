@@ -14,6 +14,11 @@ Microsoft.AspNetCore.OData
 Microsoft.AspNetCore.Mvc.NewtonsoftJson
 Swashbuckle.AspNetCore
 ```
+**Note:**
+Use only following version of Microsoft.AspNetCore.OData nuget package
+```
+<PackageReference Include="Microsoft.AspNetCore.OData" Version="7.5.2" />
+```
 
 ### Step 1
 Add following nuget package in your existing OData Api Solution.
@@ -138,6 +143,12 @@ namespace Api
 Run your Web api and call swagger ui page.
 
 [![Swagger Ui OData Solved](https://i.postimg.cc/PJjktPN4/2.png)](https://postimg.cc/wy0r2xXy)
+
+
+**Note:**
+If you want to inherit from ODataController class then check following link
+https://github.com/KishorNaik/Sol_OData_Swagger_Support/issues/2#issuecomment-742276338
+
 
 You can run sample example from the following link.<space><space>
 https://github.com/KishorNaik/Sol_OData_Swagger_Support/tree/master/V3.1/Sol_Demo/Api
